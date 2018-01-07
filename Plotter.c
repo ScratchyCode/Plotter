@@ -1,4 +1,3 @@
-// Coded by Hashbang
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
