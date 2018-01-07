@@ -1,3 +1,4 @@
+// Plot entered function between two points of its domain.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
