@@ -1,4 +1,6 @@
+// Coded by ScratchyCode
 // Plot entered function between two points of its domain.
+// Compile with -lm
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
